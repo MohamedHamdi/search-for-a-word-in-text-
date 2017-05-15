@@ -1,0 +1,18 @@
+c:\users\mohamed\documents\visual studio 2013\Projects\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+c:\users\mohamed\documents\visual studio 2013\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.csprojResolveAssemblyReference.cache
+c:\users\mohamed\documents\visual studio 2013\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.TEform.resources
+c:\users\mohamed\documents\visual studio 2013\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+c:\users\mohamed\documents\visual studio 2013\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.Cache
+c:\users\mohamed\documents\visual studio 2013\Projects\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+c:\users\mohamed\documents\visual studio 2013\Projects\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+c:\users\mohamed\documents\visual studio 2013\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+c:\users\mohamed\documents\visual studio 2013\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+D:\Study\Projects\TextEditor\TextEditor\bin\Debug\TextEditor.exe.config
+D:\Study\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.exe
+D:\Study\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.pdb
+D:\Study\Projects\TextEditor\TextEditor\bin\Debug\TextEditor.exe
+D:\Study\Projects\TextEditor\TextEditor\bin\Debug\TextEditor.pdb
+D:\Study\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.csprojResolveAssemblyReference.cache
+D:\Study\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.TEform.resources
+D:\Study\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+D:\Study\Projects\TextEditor\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.Cache
